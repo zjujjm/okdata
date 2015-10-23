@@ -5,5 +5,12 @@ Data analysis for OKQuant
 python 2.7
 tushare
 
+## Structure
 
+database -- store all the relevant data
+
+## Develop history
+
+
+## TODO list
 
